@@ -15,6 +15,9 @@ captures/
 *.apk
 output.json
 
+# Ignore macOS system files
+.DS_Store
+
 # IntelliJ
 *.iml
 .idea/
